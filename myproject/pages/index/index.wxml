@@ -1,0 +1,1 @@
+<view bind:tap="countclick">点击了{{count}}次</view>
