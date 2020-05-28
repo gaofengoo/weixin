@@ -1,5 +1,5 @@
 {
-  "pages":[
+  "pages": [
     "pages/douban/index",
     "pages/douban/search",
     "pages/douban/list",
@@ -8,10 +8,11 @@
     "pages/douban/splash",
     "pages/logs/logs"
   ],
-  "window":{
-    "backgroundTextStyle":"light",
+  "window": {
+    "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "豆豆电影",
-    "navigationBarTextStyle":"black"
-  }
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
 }
