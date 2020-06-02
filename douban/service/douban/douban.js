@@ -6,9 +6,9 @@ var handle,
 
 URL = {
 	// 电影列表
-	movieList : 'https://www.wxapp-gateway.com/movie/',
+	// movieList : 'https://www.wxapp-gateway.com/movie/',
 	// 电影详情
-	movieDetail : 'https://www.wxapp-gateway.com/movie/subject'
+	// movieDetail : 'https://www.wxapp-gateway.com/movie/subject'
 }
 
 // 电影类型

@@ -2,3 +2,9 @@
 	margin: 30px;
 	text-align: center;
 }
+.wxss{
+	width: 200rpx;
+	height: 200rpx;
+	margin: 0 auto;
+	background: #f00;
+}
