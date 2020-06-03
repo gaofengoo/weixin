@@ -2,10 +2,11 @@ var handle = {
 	CGI : {
 		// query:"http://api2.juheapi.com/jztk/query",
 		// answer:"http://api2.juheapi.com/jztk/answers",
-		query:"https://www.wxapp-gateway.com/wxapp/dle/examData",
-		answer:"https://www.wxapp-gateway.com/wxapp/dle/answerMap",
+		// query:"https://www.wxapp-gateway.com/wxapp/dle/examData",
+		// answer:"https://www.wxapp-gateway.com/wxapp/dle/answerMap"
 	},
-	appKey:"325e34a760339c8c8f29c061308e8b55",
+	// appKey:"325e34a760339c8c8f29c061308e8b55",
+	appKey:"JH2f30aae3ba9b133fd8c12d764fb38542",
 	subjects:["1","4"],
 	models:['c1','c2','a1','a2','b1','b2'],
 	storageKey:{

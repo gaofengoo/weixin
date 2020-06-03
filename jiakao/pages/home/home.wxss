@@ -60,7 +60,7 @@
 	top:22%;
 	left:18%;
 }
-.home .s1 .inner .logo{
+/*.home .s1 .inner .logo{
 	background-image:url(https://www.wxapp-gateway.com/image/order.png);
 }
 .home .s2 .inner .logo{
@@ -71,7 +71,7 @@
 }
 .home .s4 .inner .logo{
 	background-image: url(https://www.wxapp-gateway.com/image/download.png)
-}
+}*/
 
 .home .logo-subject{
 	background-size:100%;
@@ -84,7 +84,7 @@
 	z-index: 100;
 
 }
-.home .e1 .logo-subject{
+/*.home .e1 .logo-subject{
 	background-image:url(https://www.wxapp-gateway.com/image/e1.png);
 }
 .home .e2 .logo-subject{
@@ -105,7 +105,7 @@
 	position: absolute;
 	top:15%;
 	right:3%;
-}
+}*/
 .home .scroll-wrapper{
 	width:100%;
 	height:130px;

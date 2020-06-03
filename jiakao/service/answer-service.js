@@ -26,13 +26,13 @@ _fn = {
 		var url =  constant.CGI.answer;
 		var complete = function(resp){//处理错误
 			var data = resp.data;
-			if(data.error_code===0 &&data.reason==='success'){
-				if(typeof args.complete === 'function'){
-					args.complete(data);
-				}
-			}else{
-				//使用微信提供的组建进行错误提示
-			}
+			// if(data.error_code===0 &&data.reason==='success'){
+			// 	if(typeof args.complete === 'function'){
+			// 		args.complete(data);
+			// 	}
+			// }else{
+			// 	//使用微信提供的组建进行错误提示
+			// }
 		};
 		var faild = function(resp){
 			//使用微信提供的组建进行错误提示

@@ -16,21 +16,26 @@
 		"list": [
 			{
 				"pagePath": "pages/home/home",
-				"text": "科目1"
+				"text": "科目1",
+				"selectedIconPath":""
 			},
 			{
 				"pagePath": "pages/home/home",
-				"text": "科目2"
+				"text": "科目2",
+				"iconPath":""
 			},
 			{
 				"pagePath": "pages/home/home",
-				"text": "科目3"
+				"text": "科目3",
+				"iconPath":""
 			},
 			{
 				"pagePath": "pages/home/home",
-				"text": "科目4"
+				"text": "科目4",
+				"iconPath":""
 			}
-		]
+		],
+		"position":"top"
 	},
 	"sitemapLocation": "sitemap.json"
 }

@@ -16,7 +16,6 @@
 	display:flex;
 	flex-direction: column;
 	justify-content: center;
-
 }
 .finish .good-driver{
 	background-image:url(https://www.wxapp-gateway.com/image/good-driver.jpg);
