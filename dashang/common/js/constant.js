@@ -1,5 +1,5 @@
 var constant = {
-	host : 'https://www.wxapp-gateway.com',
+	// host : 'https://www.wxapp-gateway.com',
 	path:{
 		login:'/wxapp/login',
 		getPaymentInfo:'/wxapp/getPaymentInfo',
