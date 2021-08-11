@@ -27,7 +27,7 @@
     "useApiHostProcess": false
   },
   "compileType": "miniprogram",
-  "libVersion": "2.11.1",
+  "libVersion": "2.19.1",
   "appid": "wx598de7587f5e7bba",
   "projectname": "miniprogram-1",
   "debugOptions": {
